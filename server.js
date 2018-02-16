@@ -51,7 +51,7 @@ app.get('/about', (req, res) => {
 
 app.get('/projects', (req, res) => {
   res.render('projects.hbs', {
-    pageTitle: 'Project page by Josh Mace NIGGA!',
+    pageTitle: 'Project page by Josh Mace NIGGAHHH!',
     welcomeMessage: 'This is my welcome message for /projects'
   });
 });
